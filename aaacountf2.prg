@@ -1,0 +1,1 @@
+DO f:\vfp\viewer\aaacount.prg WITH DATE()-1,.t.,2
